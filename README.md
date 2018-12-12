@@ -1,5 +1,5 @@
 # Analysis
-Descriptive and Predictive analysis is done the Economic Indicators dataset.
+Descriptive and Predictive analysis is done on the Economic Indicators dataset.
 
 # Description about Dataset
 Economic Indicators, as the name suggests, is a dataset containing various economic parameters such as housing, employment, tourism etc. These indicators assist in the planning and development of a particular city. This dataset is published by the Department of Innovation and Technology and describes the parameters used for overall development of city of Boston. Each row of the dataset depicts a single entry containing the estimates of passenger counts, unemployment rate, house pricing, hotel occupancy rates etc. and is used by the Boston Planning and Redevelopment Authority for the economic development and growth planning. This dataset contains the information of 2 years starting from January 2013 till January 2015.
